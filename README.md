@@ -127,5 +127,4 @@ This project is intended for learning and portfolio demonstration, not as a prod
 
 **Srinivas Panchangam**
 
-- GitHub: [Your GitHub Profile](YOUR-GITHUB-PROFILE-URL)
 - LinkedIn: [Your LinkedIn Profile](YOUR-LINKEDIN-PROFILE-URL)
