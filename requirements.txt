@@ -1,0 +1,17 @@
+# Core data analysis
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine learning and preprocessing
+scikit-learn
+xgboost
+
+# Saving and loading trained models
+joblib
+
+# Run the Jupyter notebook
+jupyter
