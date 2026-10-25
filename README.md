@@ -127,4 +127,4 @@ This project is intended for learning and portfolio demonstration, not as a prod
 
 **Srinivas Panchangam**
 
-- LinkedIn: [Your LinkedIn Profile](YOUR-LINKEDIN-PROFILE-URL)
+- LinkedIn: [Srinivas Panchangam](https://www.linkedin.com/in/srinivas-panchangam-271a262b4/)
